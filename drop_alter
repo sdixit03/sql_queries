@@ -1,0 +1,7 @@
+create database student;
+create table stud_tab(name varchar(10));
+create database employee;
+create table emp_tab(name varchar(10));
+create database production;
+create table prod_tab(prod varchar(10);
+
